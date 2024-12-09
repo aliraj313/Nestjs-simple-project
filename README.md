@@ -31,4 +31,4 @@ This project provides a RESTful API for managing users and their associated comp
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/myproject.git
+   git clone git@github.com:aliraj313/Nestjs-simple-project.git
