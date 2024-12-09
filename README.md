@@ -7,7 +7,9 @@ This project provides a RESTful API for managing users and their associated comp
 - Define and use Mongoose schemas for Users and Companies.
 - Establish one-to-many relationships between Users and Companies.
 - Create CRUD operations for Users.
-- Integrate Swagger for API documentation.
+- Integrate Swagger for API documentation. http://localhost:3000/api
+
+
   
 ## Features
 
